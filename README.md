@@ -1,16 +1,34 @@
 ## Hi there 👋
+<div align="center">
 
-<!--
-**BODAGALARAHUL/BODAGALARAHUL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 BODAGALA RAHUL  
+### Software Developer  
 
-Here are some ideas to get you started:
+<img src="https://visitor-badge.laobi.icu/badge?page_id=BODAGALARAHUL" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Skills
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
+![C++](https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+
+---
+
+### 🔗 Connect with Me
+<a href="www.linkedin.com/in/bodagala-rahul-150936379">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+</a>
+<a href="https://your-portfolio-link">
+  <img src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge">
+</a>
+
+---
+
+### 📊 My GitHub Stats
+<img src="https://github-readme-stats.vercel.app/api?username=BODAGALARAHUL&show_icons=true&theme=dark" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BODAGALARAHUL&theme=dark" />
+
+</div>
