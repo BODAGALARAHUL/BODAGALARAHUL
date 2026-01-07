@@ -16,7 +16,7 @@
 ---
 
 ### 🔗 Connect with Me
-<a href="www.linkedin.com/in/bodagala-rahul-150936379">
+<a href="www.linkedin.com/in/bodagala-rahul-150936379" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
 </a>
 <a href="https://your-portfolio-link">
