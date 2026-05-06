@@ -72,22 +72,3 @@ I'm a software developer focused on building performant, accessible, and user-fr
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BODAGALARAHUL&theme=dark" alt="streak stats" />
 </p>
 
----
-
-## ⚡ Fun Fact
-I like to tinker with small side projects, improve developer workflows, and learn one new library or pattern every few months.
-
----
-
-## ✍️ How to customize
-- Replace every "your-..." placeholder link with your real URLs.
-- Update the Projects section with descriptions and links to the real repos.
-- Swap or remove badges you don't need. Shields.io is used for all badges — you can generate new ones at https://shields.io/.
-- To change themes for the GitHub stats cards, edit the `theme` query param (e.g., `light`, `dark`, `radical`, etc.).
-
----
-
-Thanks for sharing your README — I've added MongoDB Atlas, Render, and Postman badges and links. If you want, I can:
-- Make the badges clickable (wrap them with links),
-- Add short notes about how you use each platform in your projects, or
-- Replace placeholder project links with real repo URLs if you paste them here.
