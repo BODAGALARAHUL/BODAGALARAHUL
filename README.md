@@ -14,17 +14,6 @@ I'm a software developer focused on building performant, accessible, and user-fr
 
 ---
 
-## 📚 Table of Contents
-- [About Me](#-about-me)
-- [Skills](#-skills)
-- [Projects](#-projects)
-- [Work & Education](#-work--education)
-- [Contact](#-contact)
-- [Stats](#-stats)
-- [Fun Fact](#-fun-fact)
-
----
-
 ## 🛠️ Skills
 - Languages & Frameworks:
   ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
@@ -39,9 +28,9 @@ I'm a software developer focused on building performant, accessible, and user-fr
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
   ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
   ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-  - Google Cloud Console: https://console.cloud.google.com/
-  - Firebase Console: https://console.firebase.google.com/
+  ![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb)
+  ![Render](https://img.shields.io/badge/Render-2AB6F6?style=for-the-badge&logo=render)
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
@@ -60,15 +49,15 @@ I'm a software developer focused on building performant, accessible, and user-fr
 ---
 
 ## 🧭 Work & Education
-- Software Developer — (Your current employer / open to opportunities)
-- B.Sc. / M.Sc. — (Your degree and institution)
+- Student — 3rd-year (B.Sc. / Your Degree) at (Your University or Institution)
+- Open to internships and part-time opportunities in web development
 
 ---
 
 ## ✉️ Contact
-- LinkedIn: https://www.linkedin.com/in/bodagala-rahul-150936379
+- LinkedIn: [https://www.linkedin.com/in/bodagala-rahul-150936379](https://www.linkedin.com/in/bodagala-rahul-150936379/)
 - Portfolio: https://your-portfolio-link (replace)
-- Email: your.email@example.com (replace)
+- Email: rahulbodagala12@gmail.com
 - Resume: https://your-resume-link (replace)
 
 ---
@@ -98,7 +87,7 @@ I like to tinker with small side projects, improve developer workflows, and lear
 
 ---
 
-Thanks for sharing your README — I've added Google Cloud and Firebase links and badges. If you'd like, I can:
-- Replace the badge images with clickable links,
-- Add small descriptions for GCP/Firebase usage in your projects, or
-- Generate direct badge links that open the consoles in a new tab.
+Thanks for sharing your README — I've added MongoDB Atlas, Render, and Postman badges and links. If you want, I can:
+- Make the badges clickable (wrap them with links),
+- Add short notes about how you use each platform in your projects, or
+- Replace placeholder project links with real repo URLs if you paste them here.
