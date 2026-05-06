@@ -37,6 +37,11 @@ I'm a software developer focused on building performant, accessible, and user-fr
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+  - Google Cloud Console: https://console.cloud.google.com/
+  - Firebase Console: https://console.firebase.google.com/
 
 ---
 
@@ -93,8 +98,7 @@ I like to tinker with small side projects, improve developer workflows, and lear
 
 ---
 
-Thanks for sharing your README — I've organized and expanded it so visitors see who you are, what you build, and how to reach you. If you want, I can:
-- Fill in real project entries if you paste repo links,
-- Generate badge links for additional tools, or
-- Create a short, professional bio version for LinkedIn.
-```
+Thanks for sharing your README — I've added Google Cloud and Firebase links and badges. If you'd like, I can:
+- Replace the badge images with clickable links,
+- Add small descriptions for GCP/Firebase usage in your projects, or
+- Generate direct badge links that open the consoles in a new tab.
