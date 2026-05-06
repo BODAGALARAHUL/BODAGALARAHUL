@@ -43,13 +43,11 @@ I'm a software developer focused on building performant, accessible, and user-fr
 - Task Manager App — Full-stack app with authentication, real-time updates.
   - Live: https://your-task-app
   - Repo: https://github.com/BODAGALARAHUL/task-manager
-- Component Library — Reusable UI components in TypeScript and Storybook.
-  - Repo: https://github.com/BODAGALARAHUL/ui-library
 
 ---
 
 ## 🧭 Work & Education
-- Student — 3rd-year (B.Sc. / Your Degree) at (Your University or Institution)
+- Student — 3rd-year (BTech / Bachelor of Engineering) at (Parul University)
 - Open to internships and part-time opportunities in web development
 
 ---
